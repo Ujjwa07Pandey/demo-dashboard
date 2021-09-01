@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Facebook",
+    "stat": 18765,
+    "url": "https://canvasjs.com/data/gallery/javascript/daily-sales-data.json",
+    "installs": 43
+  },
+  {
+    "title": "Twitter",
+    "stat": 4675,
+    "url": "https://canvasjs.com/data/gallery/javascript/daily-sales-data.json",
+    "installs": 69
+  },
+  {
+    "title": "Instagram",
+    "stat": 4876,
+    "url": "https://canvasjs.com/data/gallery/javascript/daily-sales-data.json",
+    "installs": 56
+  },
+  {
+    "title": "LinkedIn",
+    "stat": 678,
+    "url": "https://canvasjs.com/data/gallery/javascript/daily-sales-data.json",
+    "installs": 38
+  }
+]
